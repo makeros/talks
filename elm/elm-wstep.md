@@ -51,11 +51,9 @@ class: invert
 
 ---
 
-message_flow
+![https://discourse.elm-lang.org/t/image-annotation-for-the-machine-learning-community/1190/2](assets/elm-arch.png)
 
----
-
-message_flow_with_commands
+*https://discourse.elm-lang.org/t/image-annotation-for-the-machine-learning-community/1190/2*
 
 ---
 
@@ -113,7 +111,7 @@ vs
 
 ---
 
-# Kodowanie na żywo :unicorn: :fire:
+# Kodowanie na żywo :unicorn: :fire: :sunglasses:
 
 ---
 
@@ -132,6 +130,14 @@ Bardzo często spotykane. Wymieniamy kawałki aplikacji na aplikację napisaną 
 
 ## Linki
 
+- strona języka - https://elm-lang.org/
+- oficjalny poradnik - https://guide.elm-lang.org
+- poradnik - https://elmprogramming.com
+- pakiety Elm - https://package.elm-lang.org/
+- piaskownica dla Elm - https://ellie-app.com
+- https://sporto.github.io/elm-workshop/
+- ta prezentacja - https://github.com/makeros/talks/tree/master/elm
+
 ---
 
-# Koniec
+# Koniec :smile:
