@@ -19,14 +19,12 @@ init : Model
 init =
     { firstName = ""
     , lastName = ""
-    , fullName = ""
     }
 
 
 type alias Model =
     { firstName : String
     , lastName : String
-    , fullName : String
     }
 
 
